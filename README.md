@@ -1,1 +1,1 @@
-# go-with-tests
+Working through the go with tests book
